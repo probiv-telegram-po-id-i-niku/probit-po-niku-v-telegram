@@ -1,5 +1,7 @@
 # Пробить по нику в Telegram: поиск по юзу без путаницы
 
+![Пробить по нику в Telegram](assets/repository-cover.png)
+
 Запрос «пробить по нику» обычно означает поиск открытых следов аккаунта по `@username`. Начните с точного юза, затем сравните публичные ссылки, описание и даты. Ни один результат по одному нику не подтверждает личность автоматически: Telegram username можно изменить, а похожие ники встречаются у разных людей.
 
 [Открыть поиск по Telegram-аккаунту](https://probivtg.pro/?utm_source=github&utm_medium=organic&utm_campaign=probiv-telegram-po-id-i-niku&utm_content=probit-po-niku-v-telegram&ref=github_probiv-telegram-po-id-i-niku_probit-po-niku-v-telegram)
